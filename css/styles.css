@@ -138,6 +138,7 @@ a{
     text-decoration: none;
     margin: 10px 20px;
     padding: auto;
+    transform: scale(2);
 
 }
 a:hover{
