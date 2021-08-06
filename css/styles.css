@@ -136,9 +136,9 @@ p {
 a{
     color: rgb(26, 87, 77);
     text-decoration: none;
-    margin: 10px 20px;
+    margin: 10px 40px;
     padding: auto;
-    transform: scale(2);
+    transform: scale(3);
 
 }
 a:hover{
